@@ -1,10 +1,11 @@
 # CSCI 381 Final Project
 
 Group members:
-- please list your
-- group members
-- here!
+- Matt Laws
+- Sam Magid
 
-Also, add any files to this repository that you would need as part of your final project submission.
+The code for the final project is public in this github: https://github.com/mlaws21/Yolo-Basic
 
-Finally, put any special instructions in this README about how to use your code/notebook.
+The main explaination is all in yolo.ipynb and the additional code implements the backend of all of the functions called in the notebook.
+
+Thanks for a great semester!
